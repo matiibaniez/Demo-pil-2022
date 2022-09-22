@@ -1,0 +1,2 @@
+palabras = ["aire" , "ojos" , "piel" , "anteojos" , "joven" , "viejo" , "alto" , "bajo" , "pequeño" , "gordo" , "delgado" , "bella" , "azul" , "verde" , "negro" , "sombrero" , " guantes" , "corbata " , "gemelos" ,"paraguas" , "plata" , "oro" , "perla", "diamante" , "esmeralda" , "anillo" , "pulsera" , "reloj" , "elegante" , "sencillo" , "chaqueta" , "traje" , "camisa" , "zapatos" , "pelo" , " maquillaje" , "peine" , "dedo" , "hueso" , "cara" , "ojo" , "calor" , "ambulancia" , "enfermera" , "farmacia" , "vitaminas" ,"pastillas" , "diccionario"]
+
